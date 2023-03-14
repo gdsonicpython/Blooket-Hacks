@@ -1,2 +1,2 @@
 # Blooket-Hacks
-some blooket hacks
+some blooket hacks that i programmed
