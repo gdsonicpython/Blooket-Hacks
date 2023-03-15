@@ -9,7 +9,7 @@
                 return Object.values(document.querySelector('#app > div > div'))[1].children[1]._owner;
             };
 
-            if (window.location.pathname != '/defense') {
+            if (window.location.pathname != '/play/defense2') {
                 alert('You must be in a Tower Defense game!');
             } else {
                 reactHandler().stateNode.towers.forEach(tower => {
